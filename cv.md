@@ -43,7 +43,7 @@ int main() {
 ```
 
 **Aducation** <br>
-BSUIR, Ivan Petrichenko's HTML/CSS course
+BSUIR, Ivan Petrichenko's web-development course
 
 **Level of english** <br>
 A2+
