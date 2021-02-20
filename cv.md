@@ -45,3 +45,5 @@ int main() {
 **Aducation** <br>
 BSUIR, Ivan Petrichenko's HTML/CSS course
 
+**Level of english** <br>
+A2+
